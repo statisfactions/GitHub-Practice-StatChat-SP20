@@ -35,6 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Matthew Beckman   | Stat Chat       | mdbeckman         | <https://mdbeckman.github.io/2020-Twin-Cities-Stat-Chat/>    |  
 
 
 <br>
